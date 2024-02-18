@@ -1,1 +1,1 @@
-devLicense();
+allow
