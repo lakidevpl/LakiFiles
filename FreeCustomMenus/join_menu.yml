@@ -1,0 +1,34 @@
+#  Przykladowe menu wygenerowane przez plugin CustomMenus
+#
+#  KONTAKT:
+#     Support:      https://dc.craftyy.pl/
+#     YouTube:      https://yt.craftyy.pl/
+#     TikTok:       https://tt.craftyy.pl/
+#     Kontakt:      kontakt@craftyy.pl
+#
+
+open:
+  permission: "menus.default" # menus.default sie ustawia gdy uprawnienia nie sa wymagane
+
+menu:
+  title: "&6Menu po dolaczeniu" # Tytul menu
+  rows: 1 # Ilosc linijek w menu
+  fill_empty_slots:
+    # Jezeli opcja jest wlaczona, puste sloty beda zapelnione szklanymi panelami
+    enabled: false
+
+items:
+  # Tu podajemy numer slotu na ktorym ma się pojawic przedmiot
+  '4':
+    # Nazwa przedmiotu
+    name: "&cZamknij"
+    # Opis przedmiotu
+    lore:
+      - " "
+      - "&eKliknij by przetestowac"
+    # Przedmiot
+    material: BARRIER
+    # Akcje wykonywane po kliknieciu
+    actions:
+      # Zamkniecie menu
+      close: true

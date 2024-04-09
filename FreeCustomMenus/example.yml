@@ -1,0 +1,55 @@
+#  Przykladowe menu wygenerowane przez plugin CustomMenus
+#
+#  KONTAKT:
+#     Support:      https://dc.craftyy.pl/
+#     YouTube:      https://yt.craftyy.pl/
+#     TikTok:       https://tt.craftyy.pl/
+#     Kontakt:      kontakt@craftyy.pl
+#
+
+open:
+  command: "examplemenu" # Komenda do otworzenia menu np: /examplemenu
+  message: "&aOtworzono menu &eExample" # Wiadomosc wyswietlana po otworzeniu menu
+  permission: "menus.menu.example" # Uprawnienie potrzebne do otworzenia menu
+
+menu:
+  title: "&8Przykladowe menu" # Tytul menu
+  rows: 5 # Ilosc linijek w menu
+  fill_empty_slots:
+    # Jezeli opcja jest wlaczona, puste sloty beda zapelnione szklanymi panelami
+    enabled: true
+    # Numer koloru szklanych paneli np: 4 (czerwony)
+    color_number: 4
+    # Nazwa przedmiotu pustego slotu
+    name: "&cPusty slot"
+    # Opis przedmiotu pustego slotu
+    lore:
+      - " "
+      - "&7Tu jest pusty slot"
+
+items:
+  # Tu podajemy numer slotu na ktorym ma się pojawic przedmiot
+  '1':
+    # Nazwa przedmiotu
+    name: "&bTestowy przedmiot"
+    # Opis przedmiotu
+    lore:
+      - " "
+      - "&eKliknij by przetestowac"
+    # Przedmiot
+    material: DIAMOND
+    # Czy przedmiot ma się podswietlac jako enchantowany
+    enchanted: true
+    # Akcje wykonywane po kliknieciu
+    actions:
+      # Zamkniecie menu
+      close: true
+      # Wykonanie komendy w konsoli
+      #
+      # Mozna zastosowac command-player: "give {nick} diamond" lecz wtedy komenda zostanie
+      # wykonana przez gracza ktory kliknie na przedmiot
+      command-cmd: "give {nick} diamond"
+      # Wiadomosc tekstowa na czacie
+      message: "&dKliknieto na przedmiot w menu"
+      # Otwiera inne menu
+      open: "example_1"
