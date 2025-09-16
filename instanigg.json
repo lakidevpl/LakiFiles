@@ -401,5 +401,14 @@
   "klub sportowy": "der Sportverein",
   "aerobik": "das Aerobic",
   "karate": "das Karate",
-  "wspinaczka": "das Klettern"
+  "wspinaczka": "das Klettern",
+
+  "jogging": "das Jogging",
+  "łyżwiarstwo figurowe": "der Eiskunstlauf",
+  "sport letni": "der Sommersport",
+  "sport zespołowy": "der Mannschaftssport",
+  "sport amatorski": "der Freizeitsport",
+  "ulubiona dyscyplina sportu": "die Lieblingssportart",
+  "szermierka": "das Fechten",
+  "jazda na rolkach": "das Inlineskating"
 }
