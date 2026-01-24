@@ -378,8 +378,11 @@
   "koszykówka": "der Basketball",
   "sportowiec": "der Sportler",
   "piłka nożna": "der Fußball",
-
-  "dyscyplina sportu": "die Sportdisziplin",
+  "dyscyplina sportu": {
+    "examples": {
+      "Welche ________ findest du am besten?": "die Sportart"
+    }
+  },
   "piłka ręczna": "der Handball",
   "sport walki": "der Kampfsport",
   "uprawiać sport": "Sport treiben",
