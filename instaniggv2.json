@@ -470,7 +470,6 @@
   "ubranie sportowe": "die Sportkleidung",
   "kijki narciarskie": "die Skistöcke",
   "przeciwnik": "der Gegner",
-  "bramkarz": "der Torhüter",
   "faworyt": "der Favorit",
   "wygrywający, zwycięzca": "der Gewinner",
   "drużyna, załoga, obsada, ekipa": "die Mannschaft",
@@ -492,7 +491,16 @@
   "pływak, spławik": "der Schwimmer",
   "snowboard": "das Snowboard",
   "klub fitness": "das Fitnessstudio",
-  "siłownia": "der Kraftraum",
+  "siłownia": {
+    "examples": {
+      "Ich trainiere jeden Tag im ___________.": "der Fitnessraum"
+    }
+  },
+  "bramkarz": {
+    "examples": {
+      "Der _______ war heute klasse!": "der Torwart"
+    }
+  },
   "szkoła jeździecka": "die Reitschule",
   "ścieżka konna, droga do jazdy konnej": "der Reitweg",
   "wyciąg narciarski": "der Skilift",
