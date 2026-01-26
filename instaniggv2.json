@@ -383,9 +383,13 @@
       "Welche ________ findest du am besten?": "die Sportart"
     }
   },
+  "uprawiać sport": {
+    "examples": {
+      "Ich _____ _____, deswegen bin ich gesund.": "Sport machen"
+    }
+  },
   "piłka ręczna": "der Handball",
   "sport walki": "der Kampfsport",
-  "uprawiać sport": "Sport treiben",
   "sport wyczynowy": "der Leistungssport",
   "wyścigi samochodowe": "das Autorennen",
   "hokej na lodzie": "das Eishockey",
