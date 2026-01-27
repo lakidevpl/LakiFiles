@@ -385,7 +385,8 @@
   },
   "uprawiać sport": {
     "examples": {
-      "Ich _____ _____, deswegen bin ich gesund.": "Sport machen"
+      "Ich _____ _____, deswegen bin ich gesund.": "Sport machen",
+      "Wie lange treibst du Sport?": "Sport treiben"
     }
   },
   "jeździć na sankach": {
@@ -448,7 +449,6 @@
   "narciarstwo": "das Skifahren",
   "skok w dal": "der Weitsprung",
   "jazda na rowerze": "das Radfahren",
-  "jeździć na sankach": "rodeln",
   "jeździć na nartach": "Ski fahren",
   "nurkowanie": "das Tauchen",
   "piłka": "der Ball",
