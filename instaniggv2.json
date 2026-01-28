@@ -564,8 +564,6 @@
   "ramię; ręka": "der Arm",
   "pierś, klatka piersiowa": "die Brust",
   "oczy": "die Augen",
-
-  {
   "leczyć": {
     "examples": {
       "Welcher Arzt hat Sie bis jetzt _________?": "behandeln"
@@ -651,5 +649,4 @@
       "Mama, ___ ___ ____.": "Mir ist übel."
     }
   }
-}
 }
