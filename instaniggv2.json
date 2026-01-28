@@ -563,5 +563,93 @@
   "kark": "der Nacken",
   "ramię; ręka": "der Arm",
   "pierś, klatka piersiowa": "die Brust",
-  "oczy": "die Augen"
+  "oczy": "die Augen",
+
+  {
+  "leczyć": {
+    "examples": {
+      "Welcher Arzt hat Sie bis jetzt _________?": "behandeln"
+    }
+  },
+  "krwawić": {
+    "examples": {
+      "Du _______! Was ist passiert?": "bluten"
+    }
+  },
+  "zażyć; przyjmować": {
+    "examples": {
+      "Wie muss ich die Tropfen _________?": "einnehmen"
+    }
+  },
+  "gorączkować": {
+    "examples": {
+      "Das Kind _______ seit gestern Abend.": "fiebern"
+    }
+  },
+  "zwalczać": {
+    "examples": {
+      "Man musste  die Tuberkulose _________.": "bekämpfen"
+    }
+  },
+  "ścieżka konna, droga do jazdy konnej": {
+    "examples": {
+      "Radfahren ist hier nicht erlaubt. Das ist ein _______.": "der Reitweg"
+    }
+  },
+  "szczepić": {
+    "examples": {
+      "Ich möchte mich ______ lassen.": "impfen"
+    }
+  },
+  "kaszleć": {
+    "examples": {
+      "Der Junge hat die ganze Nacht ________.": "husten"
+    }
+  },
+  "wystawiać zwolnienie lekarskie": {
+    "examples": {
+      "Seit Montag bin ich krank und ich bin ________________.": "krankschreiben"
+    }
+  },
+  "czuć się niedobrze": {
+    "examples": {
+      "Ich _____ ____ ______.": "sich unwohl fühlen"
+    }
+  },
+  "być uczulonym na kurz": {
+    "examples": {
+      "Er ___ _____ Staub __________.": "gegen Staub allergisch sein"
+    }
+  },
+  "mieć bóle w plecach": {
+    "examples": {
+      "Ich ____ _________ im ______.": "Schmerzen im Rücken haben"
+    }
+  },
+  "mieć kiepskie samopoczucie": {
+    "examples": {
+      "Ich ___ heute in __________ __________.": "in schlechter Verfassung sein"
+    }
+  },
+  "mdleć": {
+    "examples": {
+      "Sie ist __ ________ ________.": "in Ohnmacht fallen"
+    }
+  },
+  "zapobiegać chorobie": {
+    "examples": {
+      "Es ist besser _____ _________ _________ als heilen.": "einer Krankheit vorbeugen"
+    }
+  },
+  "pojechać do szpitala": {
+    "examples": {
+      "Wann ______ du mit mir ___ ___________?": "ins Krankenhaus fahren"
+    }
+  },
+  "Jest mi niedobrze.": {
+    "examples": {
+      "Mama, ___ ___ ____.": "Mir ist übel."
+    }
+  }
+}
 }
