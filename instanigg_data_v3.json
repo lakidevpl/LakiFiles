@@ -648,5 +648,235 @@
     "examples": {
       "Mama, ___ ___ ____.": "Mir ist übel."
     }
+  },
+  "zawrót głowy": {
+    "examples": {
+      "Ich leide unter _________.": "der Schwindel"
+    }
+  },
+  "dolegliwość": {
+    "examples": {
+      "Welche ___________ hast du? - fragt der Arzt seine Patienten.": "die Beschwerde"
+    }
+  },
+  "rak": {
+    "examples": {
+      "Ärzte vermuten, dass Rauchen eng mit _____ in Verbindung steht.": "der Krebs"
+    }
+  },
+  "symptom, objaw": {
+    "examples": {
+      "Was sind die ________?": "das Symptom"
+    }
+  },
+  "rana": {
+    "examples": {
+      "Die _____ wird heilen.": "die Wunde"
+    }
+  },
+  "kaszel": {
+    "examples": {
+      "Haben Sie ein Medikament gegen ______?": "der Husten"
+    }
+  },
+  "dolegać": {
+    "examples": {
+      "Was _____ Ihnen, Herr Meier?": "fehlen"
+    }
+  },
+  "choroba wieku dziecięcego": {
+    "examples": {
+      "Mumps ist eine _______________.": "die Kinderkrankheit"
+    }
+  },
+  "mieć chrypkę": {
+    "examples": {
+      "Seit wir aus dem Urlaub zurückgekommen sind, ___ mein Mann ______.": "heiser sein"
+    }
+  },
+  "ból": {
+    "examples": {
+      "Seit wann spüren Sie diesen _______?": "der Schmerz"
+    }
+  },
+  "mieć zawroty głowy": {
+    "examples": {
+      "Heute ist es mir sehr ___________.": "schwindelig sein"
+    }
+  },
+  "ciec z nosa, lecieć z nosa": {
+    "examples": {
+      "Mir _____ die ____. Kannst du mir ein Taschentuch geben?": "läuft die Nase"
+    }
+  },
+  "skręcić nogę w kostce": {
+    "examples": {
+      "Ich glaube, ich habe ___ den ___ __________!": "sich den Fuß verstauchen"
+    }
+  },
+  "migrena": {
+    "examples": {
+      "Ich muss mich hinlegen, ich habe eine _______.": "die Migräne"
+    }
+  },
+  "boleć": {
+    "examples": {
+      "Was ___ dir ___, Markus?": "wehtun"
+    }
+  },
+  "mdłości, nudności": {
+    "examples": {
+      "________ und Durchfall können bei Kindern gefährlich sein.": "die Übelkeit"
+    }
+  },
+  "uraz, zranienie, kontuzja": {
+    "examples": {
+      "Das ist nur eine kleine ___________.": "die Verletzung"
+    }
+  },
+  "zapalenie płuc": {
+    "examples": {
+      "Meine Frau leidet an einer ________________.": "die Lungenentzündung"
+    }
+  },
+  "bóle głowy": {
+    "examples": {
+      "Ich habe _____________.": "die Kopfschmerzen"
+    }
+  },
+  "złamać sobie nogę": {
+    "examples": {
+      "Ich habe ___ ____ ____ _________.": "sich das Bein brechen"
+    }
+  },
+  "udzielić pierwszej pomocy": {
+    "examples": {
+      "Wer hat _____ _____ _________?": "Erste Hilfe leisten"
+    }
+  },
+  "zaburzenia snu": {
+    "examples": {
+      "Er leidet an _______________.": "die Schlafstörungen"
+    }
+  },
+  "zranić się w głowę": {
+    "examples": {
+      "Das Kind hat ____ beim Radfahren am ____ ________.": "sich am Kopf verletzen"
+    }
+  },
+  "utrzymywać dobrą kondycję": {
+    "examples": {
+      "Ich will gesund sein, deswegen _____ ich ____ ___.": "sich fit halten"
+    }
+  },
+  "zimowa depresja": {
+    "examples": {
+      "Viele Leute leiden unter ________________.": "die Winterdepression"
+    }
+  },
+  "zakładać opatrunek gipsowy": {
+    "examples": {
+      "Der Arzt hat mir _____ ___________ ________.": "einen Gipsverband anlegen"
+    }
+  },
+  "źle się czuć": {
+    "examples": {
+      "Wegen der Krankheit ______ ich ____ gestern sehr ________.": "sich schlecht fühlen"
+    }
+  },
+  "wytrzymać": {
+    "examples": {
+      "Inga kann mit ihrem Eheman nicht mehr _________.": "aushalten"
+    }
+  },
+  "uważać na; zwracać uwagę na; być uważnym": {
+    "examples": {
+      "Du sollst ___ die Kinder ______!": "achten auf"
+    }
+  },
+  "karetka pogotowia": {
+    "examples": {
+      "Ruf schnell den _____________!": "der Rettungswagen"
+    }
+  },
+  "plaster": {
+    "examples": {
+      "Die Mutter klebte ein ________ auf die Wunde.": "das Pflaster"
+    }
+  },
+  "maść": {
+    "examples": {
+      "Diese _____ gibt es nur auf Rezept.": "die Salbe"
+    }
+  },
+  "witamina": {
+    "examples": {
+      "Der Arzt sagt, ich soll viele ________ essen.": "das Vitamin"
+    }
+  },
+  "chirurg": {
+    "examples": {
+      "Daniel ist plastischer _______ von Beruf.": "der Chirurg"
+    }
+  },
+  "tabletka": {
+    "examples": {
+      "Ich muss eine ________ nehmen.": "die Tablette"
+    }
+  },
+  "karetka": {
+    "examples": {
+      "Wir brauchen einen ____________.": "der Krankenwagen"
+    }
+  },
+  "operacja": {
+    "examples": {
+      "Es freut mich, dass deine Schwester nach der _________ außer Gefahr ist.": "die Operation"
+    }
+  },
+  "okulista": {
+    "examples": {
+      "Mein _________ heißt Frau Gruber.": "der Augenarzt"
+    }
+  },
+  "tabletki na grypę": {
+    "examples": {
+      "Ich habe dir _________ _____ ______ gekauft.": "Tabletten gegen Grippe"
+    }
+  },
+  "tabletki przeciwbólowe": {
+    "examples": {
+      "Ich verschreibe Ihnen ________________.": "die Schmerztabletten"
+    }
+  },
+  "opatrunek, bandaż": {
+    "examples": {
+      "Der Arzt legt dem Patienten einen _______ an.": "der Verband"
+    }
+  },
+  "termin, wizyta (u lekarza np.), termin": {
+    "examples": {
+      "Morgen habe ich einen ______ beim Arzt.": "der Termin"
+    }
+  },
+  "inhalacja": {
+    "examples": {
+      "__________ hilft bei verstopfter Nase.": "die Inhalation"
+    }
+  },
+  "skutek, następstwo": {
+    "examples": {
+      "Das sind die ______ deiner Entscheidung.": "die Folge"
+    }
+  },
+  "strzykawka, zastrzyk": {
+    "examples": {
+      "Ich habe heute vom Arzt eine _______ bekommen.": "die Spritze"
+    }
+  },
+  "infekcja, zakażenie": {
+    "examples": {
+      "Es bestehen keine Anzeichen einer _________.": "die Infektion"
+    }
   }
 }
