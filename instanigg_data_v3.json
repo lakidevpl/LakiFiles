@@ -878,5 +878,40 @@
     "examples": {
       "Es bestehen keine Anzeichen einer _________.": "die Infektion"
     }
+  },
+  "antybiotyki": {
+    "examples": {
+      "Medikamente gegen Bakterien heißen ___________.": "die Antibiotika"
+    }
+  },
+  "wysiłek": {
+    "examples": {
+      "In diesem Spiel wird ___________, Strategie und Fortschritt belohnt.": "die Anstrengung"
+    }
+  },
+  "mocny, silny, mocno, silnie": {
+    "examples": {
+      "Ich weiß, dass ihr _____ seid, aber der Druck wird schwer sein.": "stark"
+    }
+  },
+  "skręcony": {
+    "examples": {
+      "Der Arzt hat gesagt, dass mein Fuß nur __________ ist.": "verstaucht"
+    }
+  },
+  "gabinet lekarski": {
+    "examples": {
+      "Die __________ ist auf der anderen Seite der Stadt.": "die Arztpraxis"
+    }
+  },
+  "słaby, osłabiony, kiepski, słabo": {
+    "examples": {
+      "Ich habe leider ________ Noten in der Schule.": "schwach"
+    }
+  },
+  "zwichnięty": {
+    "examples": {
+      "Mein rechter Arm ist ________.": "verrenkt"
+    }
   }
 }
