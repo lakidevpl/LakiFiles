@@ -913,5 +913,135 @@
     "examples": {
       "Mein rechter Arm ist ________.": "verrenkt"
     }
+  },
+  "lekarstwo, lek, medycyna": {
+    "examples": {
+      "Diese _______ sollte alle drei Stunden eingenommen werden.": "die Medizin"
+    }
+  },
+  "nieprzytomny": {
+    "examples": {
+      "Der Mann ist __________.": "bewusstlos"
+    }
+  },
+  "śpiący": {
+    "examples": {
+      "Das Baby ist _________.": "schläfrig"
+    }
+  },
+  "zależny / uzależniony od": {
+    "examples": {
+      "Der Jugendliche ist ___ Drogen ________.": "abhängig von"
+    }
+  },
+  "przepisać (dać receptę); zapisywać": {
+    "examples": {
+      "Was hat dir der Arzt ____________?": "verschreiben"
+    }
+  },
+  "przeziębiony": {
+    "examples": {
+      "Bist du ________?": "erkältet"
+    }
+  },
+  "szczepionka": {
+    "examples": {
+      "Die _______ ist völlig sicher und kostenlos.": "die Impfung"
+    }
+  },
+  "powód": {
+    "examples": {
+      "Aus welchem _____ ärgerst du dich?": "der Grund"
+    }
+  },
+  "przemęczony": {
+    "examples": {
+      "Weißt du, ich bin so _________!": "übermüdet"
+    }
+  },
+  "krople do nosa": {
+    "examples": {
+      "Ich verschreibe dir die ____________.": "die Nasentropfen"
+    }
+  },
+  "studiować medycynę": {
+    "examples": {
+      "Ich möchte einmal _______ _________.": "Medizin studieren"
+    }
+  },
+  "herbata ziołowa": {
+    "examples": {
+      "Wenn dir übel ist, solltest du den __________ trinken.": "der Kräutertee"
+    }
+  },
+  "antybiotyk": {
+    "examples": {
+      "Der Arzt hat mir ein ____________ verschrieben.": "das Antibiotikum"
+    }
+  },
+  "katar": {
+    "examples": {
+      "Haben Sie _________?": "der Schnupfen"
+    }
+  },
+  "leżenie w łóżku": {
+    "examples": {
+      "Der Arzt verordnete ihm ________.": "die Bettruhe"
+    }
+  },
+  "uczulony": {
+    "examples": {
+      "Weil er __________ ist.": "allergisch"
+    }
+  },
+  "masaż": {
+    "examples": {
+      "Ich habe Lust auf eine _______.": "die Massage"
+    }
+  },
+  "syrop na kaszel": {
+    "examples": {
+      "Ich muss den __________ dreimal täglich trinken.": "der Hustensaft"
+    }
+  },
+  "zmęczony czymś": {
+    "examples": {
+      "Tom war sehr ____ ___ der Arbeit.": "müde von"
+    }
+  },
+  "gruntownie, dokładnie": {
+    "examples": {
+      "Sie müssen die Wohnung _________ reinigen, bevor Sie ausziehen.": "gründlich"
+    }
+  },
+  "wyczerpany": {
+    "examples": {
+      "Ich bin total _________.": "erschöpft"
+    }
+  },
+  "badać, analizować": {
+    "examples": {
+      "Du solltest dich besser von einem Arzt ___________ lassen.": "untersuchen"
+    }
+  },
+  "cierpieć na (chorobę)": {
+    "examples": {
+      "Das Kind ______ seit zwei Tagen __ Grippe.": "leiden an"
+    }
+  },
+  "być na zwolnieniu lekarskim": {
+    "examples": {
+      "Seit einer Woche ___ Katharina ________________.": "krankgeschrieben sein"
+    }
+  },
+  "mieć kiepskie samopoczucie": {
+    "examples": {
+      "Ich ___ heute in __________ __________.": "in schlechter Verfassung sein"
+    }
+  },
+  "opatrunek, bandaż": {
+    "examples": {
+      "Der Arzt legt dem Patienten einen _______ an.": "der Verband"
+    }
   }
 }
